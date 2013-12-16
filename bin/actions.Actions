@@ -1,0 +1,78 @@
+NYPD
+2
+Steal drugs from the evidence room
+0
+2000.00
+Accept a bribe
+5
+2000.00
+_
+Riot Control
+2
+Beat some dissidents
+50
+0.00
+Protect a favorable cause
+20
+5000.00
+_
+Standard Police
+2
+Do a random search
+2
+500.00
+Routine traffic stop
+1
+250.00
+_
+Undercover
+1
+Start a gambling ring
+0
+10000
+_
+The Cartel
+2
+Sell guns in Mexico
+75
+20000
+Allow drugs to cross the border
+0
+35000
+_
+The NSA
+1
+Blackmail a foreign official
+175
+50000
+_
+The ATF
+2
+Confiscate drugs
+50
+30000
+Attack a compound
+300
+0
+_
+US Army
+3
+Call out a drone strike
+500
+0
+Drop an atomic bomb
+1000
+0
+Sell guns to rebels
+750
+65000
+_
+Trapwire
+2
+Follow dissidents
+250
+0
+Prosecute protestors
+400
+0
+_
